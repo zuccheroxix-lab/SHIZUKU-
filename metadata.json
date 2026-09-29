@@ -1,0 +1,6 @@
+{
+  "name": "Shizuku Client",
+  "description": "Official Shizuku client with real Binder IPC integration, status dashboard, permission management, and system operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
